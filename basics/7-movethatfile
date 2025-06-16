@@ -1,0 +1,4 @@
+#!/bin/bash
+ls /tmp
+touch betty
+mv betty /my_first_directory
