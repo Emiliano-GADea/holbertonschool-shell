@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp/iamafile -type f -exec stat -c "%F" {} + 
+stat /tmp/iamafile 
